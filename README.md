@@ -135,10 +135,6 @@ K-Shortest Paths (k=4):
 - K-shortest paths are generated to provide alternative valid solutions.
 - The project is executed as a Python package to ensure clean imports.
 
-- BFS es utilizado como la solucion oficial porque garantiza el camino mas corto.
-- DFS esta incluido para razones comparativas y educativas.
-- K-shortest paths son generados para proveer soluciones validas alternativas.
-- El projecto es ejecutado como un paquete de Python para asegurar imports limpios.
 
 ---
 
